@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "44130412915",
+    "project_id": "forumapp-e0052",
+    "storage_bucket": "forumapp-e0052.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44130412915:android:e063582a86a123ccb33d06",
+        "android_client_info": {
+          "package_name": "com.example.forumapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "44130412915-9a4a08lpmv74qf8kg74snjni3v3ndepi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhTMzk9oNPNq5bC0OOJ0nA7BNL7mTvW3M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "44130412915-9a4a08lpmv74qf8kg74snjni3v3ndepi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "44130412915-4kbgb0osm62t32vv6kf789mm74l1qhea.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.forumapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
